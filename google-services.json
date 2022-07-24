@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "905636189693",
+    "project_id": "practhelp-831da",
+    "storage_bucket": "practhelp-831da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:905636189693:android:83f5c5f83f961a96bc3594",
+        "android_client_info": {
+          "package_name": "com.practhelp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "905636189693-mmqvfpissu6vqggp4uh2q1hdglftm2ua.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXaAQdvcq5qtf5sPVnQe7wc4LWCqmYn0Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "905636189693-mmqvfpissu6vqggp4uh2q1hdglftm2ua.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "905636189693-q1po9akp7udo6e11efad4ocsf1onrnht.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.practhelp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
